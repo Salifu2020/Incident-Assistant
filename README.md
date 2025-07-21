@@ -18,7 +18,7 @@ Built with:
 ✅ Extracts and chunks text from uploaded PDF files  
 ✅ Generates vector embeddings using Hugging Face (`all-MiniLM-L6-v2`)  
 ✅ Stores and retrieves document chunks from ChromaDB  
-✅ Uses Mistral-7B (via [Ollama](https://ollama.com)) for accurate, grounded answers  
+✅ Uses Mistral (via [Ollama](https://ollama.com)) for accurate, grounded answers  
 ✅ Supports follow-up questions with conversational memory  
 ✅ Modular design for easy integration with other LLMs or UIs
 

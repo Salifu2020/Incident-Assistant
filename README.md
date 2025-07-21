@@ -42,5 +42,5 @@ Built with:
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/yourusername/document-chatbot
-cd document-chatbot
+git clone https://github.com/Salifu2020/Incident-Assistant
+cd Incident-Assistant

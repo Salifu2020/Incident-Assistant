@@ -1,0 +1,83 @@
+2025-08-05 09:36:01,365 - INFO - Received query: What is the process for a parent plus loan application?
+2025-08-05 09:37:15,759 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-05 09:37:15,760 - INFO - Answer generated: The process for a Parent PLUS loan application at the University of Miami involves the following steps:
+
+1. Go to www.studentaid.gov and log in.
+2. Hover over “Apply for Aid” and click “Apply for a Parent PLUS Loan”.
+3. Click “Start”.
+4. Select an "Award Year".
+5. Under “School Information”, choose the option "New (I am submitting a new Direct PLUS Loan Application)".
+6. Click on the appropriate loan amount option under “Loan Information” and complete any additional information if required.
+7. Enter the appropriate “Loan Period” information under “Loan Information” for the months that correspond to the appropriate semester(s).
+8. Submit the application.
+
+If a parent needs to reduce or cancel the loan amount, they need to do so through their www.studentaid.gov loan application login.
+2025-08-05 09:41:59,979 - INFO - Received query: What are the criteria for a student to be considered independent?
+2025-08-05 09:43:47,816 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-05 09:43:47,817 - INFO - Answer generated: A student can be classified as independent at the University of Miami if they meet one or more of the following criteria:
+
+1. 24 years of age or older
+2. Veteran
+3. Graduate or professional student
+4. Married
+2025-08-05 09:46:35,916 - INFO - Received query: What happens when there is an unsuccessful monthly payment plan installment payment?
+2025-08-05 09:47:33,523 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-05 09:47:33,524 - INFO - Answer generated: When there is an unsuccessful monthly payment plan (MPP) installment payment, the student will receive an email notice. If the balance remains at $0 or yields a refund after the unsuccessful payment, no billing notice will be sent. However, any missed payments beyond the first one will result in cancellation of the MPP. If a student has a Past Due Balance due to an unsuccessful installment, they may need to pay at the Cashier's Office for the payment to be made and the financial hold to be lifted, even though the balance on Flywire shows as $0.
+2025-08-05 14:59:38,703 - INFO - Received query: What is academic bankruptcy for?
+2025-08-05 16:14:45,057 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-05 16:16:14,762 - INFO - Received query: If a student submits a residency doc with their C number instead of their 5 number will FA still be able to find the form? Or should he resubmit?
+2025-08-05 16:17:12,918 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-05 16:17:12,919 - INFO - Answer generated: The student should resubmit the residency document with the correct identification number (5 number) if it was submitted with the incorrect ID number (C number). The 5-number is required for proper identification and processing of the form by FA.
+2025-08-05 22:01:19,573 - INFO - Received query: What are the criteria for a student to be considered independent?
+2025-08-05 22:02:15,686 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-05 22:02:15,687 - INFO - Answer generated: A student can be classified as independent if they are 24 years of age or older, a veteran, a graduate or professional student, or married. For more detailed information, visit this Student Aid webpage: https://studentaid.gov/apply-for-aid/fafsa/filling-out/dependency
+2025-08-05 22:20:12,457 - ERROR -  Background task failed for safety_security_manual.pdf: [WinError 183] Cannot create a file when that file already exists: 'source_files\\safety_security_manual.pdf' -> 'ingested_files\\pdf\\safety_security_manual.pdf'
+2025-08-05 22:22:04,989 - INFO - Received query: What should you do if a resident tells you they have lost their cane card?
+2025-08-05 22:23:02,648 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-05 22:23:02,649 - INFO - Answer generated: If a resident informs you that they have lost their Cane Card, tell them to replace it as soon as possible. They can do this via the Canelink system or by visiting Canes Central near Mahoney/Pearson Dining Hall. In the meantime, provide access through 12 PM the next business day using a temporary card (Resident New Card in Onity).
+2025-08-05 22:23:02,932 - ERROR -  Background task failed for safety_security_manual.pdf: [WinError 183] Cannot create a file when that file already exists: 'source_files\\safety_security_manual.pdf' -> 'ingested_files\\pdf\\safety_security_manual.pdf'
+2025-08-05 22:24:57,901 - ERROR -  Background task failed for safety_security_manual.pdf: [WinError 32] The process cannot access the file because it is being used by another process: 'source_files\\safety_security_manual.pdf' -> 'ingested_files\\pdf\\safety_security_manual.pdf'
+2025-08-05 22:24:58,040 - ERROR -  Background task failed for safety_security_manual.pdf: [WinError 183] Cannot create a file when that file already exists: 'source_files\\safety_security_manual.pdf' -> 'ingested_files\\pdf\\safety_security_manual.pdf'
+2025-08-05 22:25:13,005 - INFO - Received query: When is billing notice sent to students?
+2025-08-05 22:26:45,756 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-05 22:26:45,756 - INFO - Answer generated: Billing notices are not sent to students who have a balance of $10 or less.
+2025-08-05 22:26:46,033 - ERROR -  Background task failed for safety_security_manual.pdf: [WinError 183] Cannot create a file when that file already exists: 'source_files\\safety_security_manual.pdf' -> 'ingested_files\\pdf\\safety_security_manual.pdf'
+2025-08-05 22:27:05,972 - ERROR -  Background task failed for safety_security_manual.pdf: [WinError 183] Cannot create a file when that file already exists: 'source_files\\safety_security_manual.pdf' -> 'ingested_files\\pdf\\safety_security_manual.pdf'
+2025-08-05 22:27:06,230 - ERROR -  Background task failed for safety_security_manual.pdf: [WinError 183] Cannot create a file when that file already exists: 'source_files\\safety_security_manual.pdf' -> 'ingested_files\\pdf\\safety_security_manual.pdf'
+2025-08-06 11:21:31,685 - INFO - Received query: Proxy initiated an international wire transfer on July 30, but it's not being posted on the bill yet.
+2025-08-06 11:25:15,790 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-06 11:25:15,796 - INFO - Answer generated: If the proxy initiated an international wire transfer on July 30th and it's not being posted on the bill yet, it may be due to the funds taking longer than usual to process through CIBC (Canadian Imperial Bank of Commerce). The funds received by CIBC are delivered to UM within 2-3 business days after completion. However, if more than a week has passed and the funds have not been posted, it's recommended to contact the CC team for further assistance.
+2025-08-06 12:30:44,432 - INFO - Received query: How long does it take for health insurance waiver request to get approved?
+2025-08-06 12:36:23,999 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-06 12:36:24,001 - INFO - Answer generated: Health insurance waiver requests are approved within 5 business days of their submission. However, once approved, it can take up to an additional 5 business days to show on the student's account.
+2025-08-06 14:56:52,242 - INFO - Received query: Student would be living off-campus this academic year, and he wants additional funding to cover the costs associated with it. What should he do?
+2025-08-06 15:01:19,421 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-06 15:01:19,425 - INFO - Answer generated: The student should submit a Cost of Attendance (COA) Appeal Form, including a signed lease if they selected living with parents instead of off-campus, for consideration. They can also include outside scholarships or R4R in their appeal. Additionally, they should contact Housing directly to ensure they have successfully backed out of on-campus housing if they haven't yet done so. It is essential that bills are posted before submitting the COA appeal form.
+2025-08-06 15:28:31,391 - INFO - Received query: Do the cashier's office accept any type of check?
+2025-08-06 15:33:25,721 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-06 15:33:25,725 - INFO - Answer generated: Yes, the Cashier’s Office accepts personal checks and money order/cashier's checks. However, as of December 9, 2024, cash is no longer accepted for payments to student accounts.
+2025-08-07 09:20:10,593 - ERROR -  Background task failed for term-statement-fall2025-pdf.pdf: [WinError 2] The system cannot find the file specified: 'source_files\\term-statement-fall2025-pdf.pdf' -> 'ingested_files\\pdf\\term-statement-fall2025-pdf.pdf'
+2025-08-07 11:17:53,215 - INFO - Received query: Is there any penalty associated with late bill payment?
+2025-08-07 11:24:41,653 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-07 11:24:41,678 - INFO - Answer generated: Yes, a Past Due hold will be placed on the student's account if charges are unpaid. The hold prevents adding courses and can only be lifted once the balance is paid or Anticipated Aid disburses and pays toward the account. If a student has multiple issues, they should first speak with a CC Associate before being handshaked to Collections for assistance regarding collections cases. Additionally, if a refund check is sent to a closed bank account, the student is responsible for contacting their banking institution to obtain the funds.
+2025-08-07 12:01:36,158 - INFO - Received query: Student's FAFSA application isn't appearing on her account Why?
+2025-08-07 12:07:58,453 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-07 12:07:58,458 - INFO - Answer generated: To resolve this issue, ask the student if they have recently made any changes to their FAFSA online (e.g., school code). If so, they would need to get a confirmation that their change was processed. Once they confirm this, the ISIR SLA kicks in. Check CaneLink to ensure the student has an SSN on file and that there are no duplicate PowerFAIDS accounts due to SSN errors. Ask for a screenshot that the student successfully completed the FAFSA for the appropriate academic year. If you confirm that the student submitted correctly, ask the student which school code they put on their FAFSA. If the school code is correct and the SLA has passed from the date the FAFSA was submitted/school code corrected (whichever was last), escalate to Financial Aid for review.
+2025-08-07 12:45:41,293 - INFO - Received query: What is the loan origination fee?
+2025-08-07 12:51:51,690 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-07 12:51:51,692 - INFO - Answer generated: The loan origination fee is a percentage of the loans that is deducted by the government prior to disbursement. The amount depends on the date the loans are originated and can change by year. You can find more information about federal loan origination fees at studentaid.gov/understand-aid/types/loans/interest-rates.
+2025-08-08 00:11:47,424 - INFO - Received query: Do we know if OSAS and FA are processing checks? Parent sent the check back in July 16th so it's been about 2 business weeks and then some (no proof its been cashed)  
+2025-08-08 00:13:01,369 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-08 00:13:01,388 - INFO - Answer generated: provided, there is no information indicating that the status of the check sent by the parent on July 16th has been updated yet. The OSAS Refund Check SLA mentions that all checks should arrive and be posted to a student’s account within 10 business days, but there's no mention of updates after this period. Therefore, we cannot confirm if OSAS or FA are currently processing the check at this time.
+2025-08-08 00:15:20,290 - INFO - Received query: What to do if noise complaints in the building?
+2025-08-08 00:17:44,271 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-08 00:17:44,272 - INFO - Answer generated: If a resident calls down to report a noise complaint within the building, the SA should gather details such as the caller's information, location of the noise, and direction/room where it seems to be coming from. The SA should then call the RA-On-Duty and document this on the Activity Log (0608.A).
+2025-08-08 00:18:21,969 - INFO - Received query: What if it's outside?
+2025-08-08 00:20:47,502 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-08 00:20:47,503 - INFO - Answer generated: If noise complaints originate from outside the building, the SA should gather details and decide who to contact first based on whether the noise presents an immediate danger or not. If it's a physical altercation, UMPD should be contacted. For less imminent threats, the unit SS can be contacted. This should be documented on the Activity Log.
+2025-08-08 00:26:01,374 - INFO - Received query: What should a security assistant do if they observe any kind terrorist activities signs?
+2025-08-08 00:31:38,201 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-08 00:31:38,204 - INFO - Answer generated: If the Security Assistant observes activity that suggests any type of terrorist action, they should call ADOD and UMPD immediately to assist. The SS and any other assistance deemed necessary should also be contacted. Indicators of possible terrorist activities include suspicious packages, bags, powders, vehicles, uniforms, badges, and/or access cards; threats, rumors, allegations, or jokes made by students or visitors; individuals who appear out of place or unusually nervous; unusual interest in security measures or personnel, entry points, and/or access control; unusual interest in security reaction drills or procedures; suspicious individuals loitering in lobbies or around campus possibly disguised; increase in anonymous calls or threats in conjunction with suspected terrorist surveillance; unusual use of cameras or video equipment in and around buildings; attempts to gain sensitive information regarding facilities or personnel by telephone or in person; individuals who appear to be mapping routes, plans, or blueprints. The SA should document all pertinent details on the Activity Log and Incident Report.
+2025-08-08 15:49:02,171 - INFO - Received query: I have a student on the phone asking for guidance on the pro rate aid. I let her know that the letters  from the advisor can be sent when the application for graduation opens. Is this information not correct? Because she was instructed by the associate that she can submit  the letter now
+2025-08-08 15:55:49,823 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-08 15:55:49,852 - INFO - Answer generated: The information provided seems to indicate that a student can only submit the letter from their Program Director/Advisor for proration once they have applied for Fall Graduation, unless there has been an error in communication. If you are unsure about the specific situation, it would be best to refer the student to a Financial Aid Specialist for further guidance.
